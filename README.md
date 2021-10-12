@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sebastian9610
+- 🤓 I'm physical engineer, at the Technological University of Pereira, Colombia
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning about IA, data science
 - 💞️ I’m looking to collaborate on upgrade machine learning models
